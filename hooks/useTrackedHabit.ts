@@ -11,10 +11,16 @@ import {
 } from "@/lib/contracts";
 import { trackTransaction } from "@/utils/track";
 
-// Replace this with a real Builder Code before production launch.
-const DATA_SUFFIX = Attribution.toDataSuffix({
-  codes: ["BUILDER_CODE_PLACEHOLDER"]
+const BUILDER_CODE = "bc_26rlxjli";
+const EXPECTED_DATA_SUFFIX =
+  "0x62635f3236726c786a6c690b0080218021802180218021802180218021";
+const GENERATED_DATA_SUFFIX = Attribution.toDataSuffix({
+  codes: [BUILDER_CODE]
 });
+const DATA_SUFFIX =
+  GENERATED_DATA_SUFFIX === EXPECTED_DATA_SUFFIX
+    ? GENERATED_DATA_SUFFIX
+    : (EXPECTED_DATA_SUFFIX as `0x${string}`);
 
 type CompleteHabitTrackedResult = {
   txHash: `0x${string}`;
