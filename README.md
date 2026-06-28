@@ -90,3 +90,7 @@ Keep contract-related values aligned with the ABI in `lib/abi/baseHabitTrackerAb
 The current contract tracks only a simple on-chain completion count.
 
 This version does not include multi-habit management.
+
+This version does not include streak logic.
+
+This version does not include a calendar view.
