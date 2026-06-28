@@ -56,3 +56,10 @@ Install dependencies using your preferred package manager:
 Start the development server:
 
 `npm run dev`
+
+Open the local development URL shown in your terminal.
+
+## Usage
+
+1. Launch the app.
+2. Connect a wallet.
