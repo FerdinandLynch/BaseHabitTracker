@@ -40,3 +40,9 @@ The app is configured to interact with the following contract:
 - ABI location: `lib/abi/baseHabitTrackerAbi.ts`
 
 ## Setup
+
+Clone the repository:
+
+`git clone https://github.com/FerdinandLynch/BaseHabitTracker.git`
+
+Move into the project directory:
