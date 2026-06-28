@@ -73,3 +73,9 @@ Open the local development URL shown in your terminal.
 ## Configuration Notes
 
 The project retains several placeholder values for environment-specific configuration.
+
+These include:
+
+- `BASEHABITTRACKER_CONTRACT_ADDRESS_PLACEHOLDER`
+- `BASE_APP_ID_PLACEHOLDER`
+- `TALENT_VERIFICATION_PLACEHOLDER`
