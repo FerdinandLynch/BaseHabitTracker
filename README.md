@@ -35,3 +35,8 @@ The app also sends transaction information to a dashboard API for off-chain trac
 ## Contract
 
 The app is configured to interact with the following contract:
+
+- Contract address: `0x5387C64C4046A994C66fAca67baC6C98D14DDf92`
+- ABI location: `lib/abi/baseHabitTrackerAbi.ts`
+
+## Setup
