@@ -94,3 +94,9 @@ This version does not include multi-habit management.
 This version does not include streak logic.
 
 This version does not include a calendar view.
+
+This version does not include reminder systems.
+
+The app is intentionally small and focused on the core completion flow.
+
+## Project Goals
