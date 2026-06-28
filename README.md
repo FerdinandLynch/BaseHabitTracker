@@ -20,3 +20,8 @@ The app also sends transaction information to a dashboard API for off-chain trac
 - Read `habitCount(address)` from the deployed contract.
 - Submit `completeHabit()` to record a habit completion.
 - Return the transaction hash after submission.
+- Refresh the on-chain completion count after completion.
+- Track submitted transactions through a dashboard API.
+- Use a small TypeScript codebase suitable for iteration.
+
+## Tech Stack
