@@ -68,3 +68,8 @@ Open the local development URL shown in your terminal.
 5. Confirm the transaction in the connected wallet.
 6. Wait for the transaction hash to be returned.
 7. Refresh or allow the app to refresh the displayed count.
+8. Review tracked transaction activity through the configured dashboard API.
+
+## Configuration Notes
+
+The project retains several placeholder values for environment-specific configuration.
