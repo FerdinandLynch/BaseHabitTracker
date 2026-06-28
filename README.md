@@ -13,3 +13,10 @@ The current version focuses on a minimal habit-tracking flow.
 A user connects a wallet, reads the current habit completion count from the contract, submits a completion transaction, and sees the updated count after the transaction is processed.
 
 The app also sends transaction information to a dashboard API for off-chain tracking.
+
+## Features
+
+- Connect a wallet.
+- Read `habitCount(address)` from the deployed contract.
+- Submit `completeHabit()` to record a habit completion.
+- Return the transaction hash after submission.
