@@ -63,3 +63,8 @@ Open the local development URL shown in your terminal.
 
 1. Launch the app.
 2. Connect a wallet.
+3. View the current habit completion count.
+4. Select the action to complete a habit.
+5. Confirm the transaction in the connected wallet.
+6. Wait for the transaction hash to be returned.
+7. Refresh or allow the app to refresh the displayed count.
