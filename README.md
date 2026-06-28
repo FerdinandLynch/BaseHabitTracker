@@ -25,3 +25,8 @@ The app also sends transaction information to a dashboard API for off-chain trac
 - Use a small TypeScript codebase suitable for iteration.
 
 ## Tech Stack
+
+- Next.js
+- TypeScript
+- wagmi
+- viem
