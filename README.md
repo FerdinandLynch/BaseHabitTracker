@@ -30,3 +30,8 @@ The app also sends transaction information to a dashboard API for off-chain trac
 - TypeScript
 - wagmi
 - viem
+- Base Mini App environment
+
+## Contract
+
+The app is configured to interact with the following contract:
