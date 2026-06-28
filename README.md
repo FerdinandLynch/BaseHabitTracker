@@ -100,3 +100,9 @@ This version does not include reminder systems.
 The app is intentionally small and focused on the core completion flow.
 
 ## Project Goals
+
+BaseHabitTracker is intended to provide a clear foundation for a Base habit-tracking experience.
+
+The current implementation keeps the contract interaction simple and visible.
+
+Future work can build on the existing wallet connection, read flow, write flow, and transaction tracking behavior.
