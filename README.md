@@ -79,3 +79,8 @@ These include:
 - `BASEHABITTRACKER_CONTRACT_ADDRESS_PLACEHOLDER`
 - `BASE_APP_ID_PLACEHOLDER`
 - `TALENT_VERIFICATION_PLACEHOLDER`
+- `BUILDER_CODE_PLACEHOLDER`
+
+Replace placeholder values only when the corresponding integration is ready to be configured.
+
+Keep contract-related values aligned with the ABI in `lib/abi/baseHabitTrackerAbi.ts`.
