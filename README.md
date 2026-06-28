@@ -84,3 +84,9 @@ These include:
 Replace placeholder values only when the corresponding integration is ready to be configured.
 
 Keep contract-related values aligned with the ABI in `lib/abi/baseHabitTrackerAbi.ts`.
+
+## Current Limitations
+
+The current contract tracks only a simple on-chain completion count.
+
+This version does not include multi-habit management.
