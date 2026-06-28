@@ -46,3 +46,9 @@ Clone the repository:
 `git clone https://github.com/FerdinandLynch/BaseHabitTracker.git`
 
 Move into the project directory:
+
+`cd BaseHabitTracker`
+
+Install dependencies using your preferred package manager:
+
+`npm install`
