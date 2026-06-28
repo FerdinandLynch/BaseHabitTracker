@@ -52,3 +52,7 @@ Move into the project directory:
 Install dependencies using your preferred package manager:
 
 `npm install`
+
+Start the development server:
+
+`npm run dev`
